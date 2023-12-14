@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_marginTop="10dp">
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/ryc_listnote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"/>
+    <Button
+        android:id="@+id/btn_themghichu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Thêm Ghi chú"
+        android:textStyle="bold"
+        android:backgroundTint="#f06292"
+        android:textColor="@color/white"
+        android:layout_marginTop="20dp"/>
+</LinearLayout>

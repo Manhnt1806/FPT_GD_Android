@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_add"
+            android:title="@string/nav_thongKe"
+            android:icon="@drawable/ic_thongke"/>
+        <item android:id="@+id/nav_ds"
+            android:title="@string/nav_info"
+            android:icon="@drawable/ic_pltc"/>
+    </group>
+
+    <item android:title="Information">
+        <menu>
+            <item android:id="@+id/nav_exit"
+                android:title="@string/nav_exit"
+                android:icon="@drawable/ic_exit"/>
+        </menu>
+    </item>
+
+</menu>

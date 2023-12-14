@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="40dp"
+            android:layout_height="50dp"
+            android:drawableRight="@drawable/ic_baseline_arrow_back_24"
+            style="?android:attr/borderlessButtonStyle"/>
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/avt" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginLeft="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Spiderman"
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                android:textStyle="bold"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hoạt động 1 phút trước" />
+        </LinearLayout>
+        <Button
+            android:id="@+id/btn_call"
+            android:layout_width="40dp"
+            android:layout_height="50dp"
+            android:drawableRight="@drawable/ic_call"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_marginLeft="40dp"
+            />
+        <Button
+            android:id="@+id/btn_videocall"
+            android:layout_width="40dp"
+            android:layout_height="50dp"
+            android:drawableRight="@drawable/ic_baseline_videocall"
+            style="?android:attr/borderlessButtonStyle"/>
+
+        <Button
+            android:id="@+id/btn_i"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="40dp"
+            android:layout_height="50dp"
+            android:drawableRight="@drawable/ic__info" />
+    </LinearLayout>
+
+    <TextView
+        style="@style/style_me"
+        android:text="Hello!"
+        />
+    <TextView
+        style="@style/style_you"
+        android:text="Hi!" />
+    <TextView
+        style="@style/style_me"
+        android:text="Are you spiderman?" />
+    <TextView
+        style="@style/style_you"
+        android:text="Of course it's me!" />
+    <TextView
+        style="@style/style_me"
+        android:text="Great!!!" />
+    <TextView
+        style="@style/style_you"
+        android:text="What's wrong?!" />
+    <TextView
+        style="@style/style_me"
+        android:text="Thế bro có biết nói Tiếng Việt không aha" />
+    <TextView
+        style="@style/style_you"
+        android:text="Không nhé!" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp">
+        <Button
+            android:id="@+id/btn_menu"
+            android:layout_width="40dp"
+            android:layout_height="55dp"
+            android:drawableRight="@drawable/ic_menu"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_marginLeft="10dp"/>
+        <Button
+            android:id="@+id/btn_camera"
+            android:layout_width="40dp"
+            android:layout_height="55dp"
+            android:drawableRight="@drawable/ic_camera"
+            style="?android:attr/borderlessButtonStyle"/>
+        <Button
+            android:id="@+id/btn_image"
+            android:layout_width="40dp"
+            android:layout_height="55dp"
+            android:drawableRight="@drawable/ic_image"
+            style="?android:attr/borderlessButtonStyle"/>
+        <Button
+            android:id="@+id/btn_voice"
+            android:layout_width="40dp"
+            android:layout_height="55dp"
+            android:drawableRight="@drawable/ic_voice"
+            style="?android:attr/borderlessButtonStyle"/>
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:hint="Nhắn tin                 "
+            android:drawableRight="@drawable/ic_icon"
+            android:background="@drawable/back_edtext"
+            android:layout_gravity="center_vertical"/>
+        <Button
+            android:id="@+id/btn_send"
+            android:layout_width="40dp"
+            android:layout_height="55dp"
+            android:drawableRight="@drawable/ic_send"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_marginLeft="10dp"
+            />
+    </LinearLayout>
+</LinearLayout>

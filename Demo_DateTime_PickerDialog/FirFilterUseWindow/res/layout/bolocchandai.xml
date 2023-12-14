@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bộ Lọc Chắn Dải"
+        android:gravity="center"
+        android:textColor="#0000ff"
+        android:textSize="20dp"/>
+    <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvdoronggiaichuyentiepchandai"
+            android:text="Độ rộng giải chuyển tiếp:"
+            android:textSize="15dp"
+            android:layout_marginTop="15dp"/>
+        <EditText 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/editDoRongGiaiChuyenTiepChanDai"
+            android:text="0.03"
+            android:inputType="numberDecimal"
+            ></EditText>
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PI"
+            android:textSize="15sp"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="50dp" />
+    </TableRow>
+    <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvDoSuyHaoDaiChanChanDai"
+            android:text="Độ suy hao dải chắn:"
+            android:textSize="15dp"
+            android:layout_marginTop="15dp"/>
+        <EditText 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/editDoSuyHaoDaiChanChanDai"
+            android:text="40.0"
+            android:inputType="numberDecimal"
+            ></EditText>
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="dB"
+            android:textSize="15sp"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="50dp" />
+    </TableRow>
+    <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvTanSoThongDuoiBLChanDai"
+            android:text="Tần Số Thông Dưới Wc1:"
+            android:textSize="15dp"
+            android:layout_marginTop="15dp"
+             
+            />
+        <EditText 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/editTanSoThongDuoiBLChanDai"
+            android:text="0.3"
+            android:inputType="numberDecimal"
+            ></EditText>
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PI"
+            android:textSize="15sp"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="50dp" />
+     </TableRow>
+     <TableRow 
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvTanSoThongTrenBLChanDai"
+            android:text="Tần Số Thông Trên Wc1:"
+            android:textSize="15dp"
+            android:layout_marginTop="15dp" 
+            />
+        <EditText 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/editTanSoThongTrenBLChanDai"
+            android:text="0.7"
+            android:inputType="numberDecimal"
+            ></EditText>
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PI"
+            android:textSize="15sp"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="50dp" />
+    </TableRow>
+    <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp">
+        <Button 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btDesignBLChanDai"
+            android:text="Thiết kế bộ lọc"
+            android:textSize="20dp"
+            android:gravity="center" />
+    </TableRow>
+    
+
+</LinearLayout>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/drawable/back.xml" value="0.16" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/drawable/back_rowTK.xml" value="0.1745" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/drawable/back_row_tk.xml" value="0.1745" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/drawable/ic_acc.xml" value="0.1415" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/drawable/ic_add.xml" value="0.1" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/drawable/ic_calencar.xml" value="0.112" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/drawable/ic_calendar.xml" value="0.112" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/drawable/ic_calendar_tk.xml" value="0.112" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/drawable/ic_chi.xml" value="0.11" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/drawable/ic_deletepass.xml" value="0.105" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/drawable/ic_pltc.xml" value="0.1415" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/drawable/ic_qltc.xml" value="0.1745" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/drawable/ic_thongke.xml" value="0.1" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/activity_demo_pl.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/activity_main2.xml" value="0.16111111111111112" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/activity_main_activitycscc.xml" value="0.11736111111111111" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/activity_screen_chi_tiet.xml" value="0.2" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/activity_screen_dang_nhap.xml" value="0.264" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/cardview_khoanchi.xml" value="0.24895833333333334" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/cardview_khoanci.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/cardview_khoanthu.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/cardview_loaichi.xml" value="0.17592592592592593" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/cardview_loaithu.xml" value="0.1" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/cardview_phanloai.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/cardview_quanly.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/cardview_thongke.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/chitiet_frag.xml" value="0.264" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/dangnhapfrag.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/dialog_chi_tiet.xml" value="0.1563517915309446" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/dialog_chitiet.xml" value="0.2" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/dialog_edit_chi_tiet.xml" value="0.2" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/dvsdsd.xml" value="0.264" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/edit_kt_dialog.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/fragment_main.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/gioithieu_frag.xml" value="0.264" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/item_select.xml" value="0.24895833333333334" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/item_sp.xml" value="0.24895833333333334" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/item_spn.xml" value="0.176" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/khoanchi_add.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/khoanchi_frag.xml" value="0.16" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/khoanthu_add.xml" value="0.176" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/khoanthu_frag.xml" value="0.16" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/khoanthuchi_add.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/layout_custom.xml" value="0.2" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/layout_header_nav.xml" value="0.2359375" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/layout_row_phanloai.xml" value="0.24895833333333334" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/layout_row_thongke.xml" value="0.264" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/list_phanloai.xml" value="0.24895833333333334" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/loaichi_frag.xml" value="0.18596491228070175" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/loaithu_frag.xml" value="0.15833333333333333" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/phanloai_add.xml" value="0.2" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/phanloai_add_edit.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/phanloai_edit.xml" value="0.1935185185185185" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/phanloai_frag.xml" value="0.2222222222222222" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/quanly_frag.xml" value="0.18596491228070175" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/thongke_frag.xml" value="0.264" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/thongkefrag.xml" value="0.2359375" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/menu/menu_nav.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/menu/menu_search.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/drawable/ic_add_tc.xml" value="0.2135" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/drawable/ic_back_chitiet.xml" value="0.151" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/drawable/ic_chi.xml" value="0.2135" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/drawable/ic_delete_phanloai.xml" value="0.2105" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/drawable/ic_edit.xml" value="0.2105" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/activity_screen_dang_nhap.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/cardview_khoanchi.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/cardview_khoanthu.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/cardview_phanloai.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/cardview_thongke.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/dialog_chi_tiet.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/dialog_edit_chi_tiet.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/gioithieu_frag.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/khoanchi_frag.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/khoanthu_frag.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/khoanthuchi_add.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/layout_header_nav.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/loaichi_frag.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/loaithu_frag.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/phanloai_add_edit.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/phanloai_frag.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/layout/quanly_frag.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/menu/menu_nav.xml" value="0.15789473684210525" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/Manhntph29583_ass_mob202/app/src/main/res/menu/menu_search.xml" value="0.15789473684210525" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

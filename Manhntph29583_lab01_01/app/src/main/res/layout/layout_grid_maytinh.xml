@@ -1,0 +1,145 @@
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="4"
+    android:orientation="horizontal"
+    android:rowCount="7"
+    android:background="@color/black">
+    <TextView
+        android:id="@+id/tvApp"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:paddingLeft="10dp"
+        android:background="#32FFFFFF"
+        android:drawableLeft="@drawable/appmt"
+        android:text=" AppMayTinh"
+        android:gravity="center_vertical"
+        android:textColor="@color/white"
+        android:textSize="35dp"
+        android:layout_row="0"
+        android:layout_column="0"
+        android:layout_columnSpan="4"/>
+    <EditText
+        android:layout_marginLeft="11dp"
+        android:layout_marginRight="11dp"
+        android:id="@+id/edKQ"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_row="1"
+        android:layout_column="0"
+        android:layout_columnSpan="4"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#2196F3"
+        android:hint="9x8"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="50dp" />
+
+    <View
+        android:layout_marginLeft="11dp"
+        android:id="@+id/idView"
+        android:layout_width="235dp"
+        android:layout_height="75dp"
+        android:layout_row="2"
+        android:layout_column="0"
+        android:layout_columnSpan="3"
+        android:background="#32FFFFFF"
+        />
+
+    <Button
+        android:id="@+id/btnDelete"
+        android:layout_width="151dp"
+        android:layout_height="75dp"
+        android:layout_row="2"
+        android:layout_column="2"
+        android:layout_columnSpan="2"
+        android:layout_marginRight="11dp"
+        android:background="#FF9800"
+        android:text="DELETE"
+        android:layout_gravity="right"
+        android:textColor="@color/white"
+        android:textSize="24dp" />
+
+    <Button
+        android:id="@+id/btn7"
+        android:layout_marginLeft="11dp"
+        style="@style/style_btn_so"
+        android:text="7"
+        />
+    <Button
+        android:id="@+id/btn8"
+        android:text="8"
+        style="@style/style_btn_so"/>
+    <Button
+        android:id="@+id/btn9"
+        android:text="9"
+        style="@style/style_btn_so"/>
+    <Button
+        android:id="@+id/btnChia"
+        android:text="/"
+        android:textSize="65dp"
+        android:background="#32FFFFFF"
+        style="@style/style_btn_so"/>
+    <Button
+        android:layout_marginLeft="11dp"
+        android:id="@+id/btn4"
+        android:text="4"
+        style="@style/style_btn_so"/>
+
+    <Button
+        android:id="@+id/btn5"
+        android:text="5"
+        style="@style/style_btn_so" />
+
+    <Button
+        android:id="@+id/btn6"
+        android:text="6"
+        style="@style/style_btn_so"/>
+    <Button
+        android:id="@+id/btnNhan"
+        android:text="X"
+        android:background="#32FFFFFF"
+        style="@style/style_btn_so"/>
+    <Button
+        android:layout_marginLeft="11dp"
+        android:id="@+id/btn1"
+        android:text="1"
+        style="@style/style_btn_so"/>
+    <Button
+        android:id="@+id/btn2"
+        android:text="2"
+        style="@style/style_btn_so"/>
+    <Button
+        android:id="@+id/btn3"
+        android:text="3"
+        style="@style/style_btn_so"/>
+    <Button
+        android:id="@+id/btnTru"
+        android:text="-"
+        android:background="#32FFFFFF"
+        style="@style/style_btn_so"/>
+    <Button
+        android:id="@+id/btnCham"
+        android:text="."
+        style="@style/style_btn_so"
+        android:layout_marginLeft="11dp"/>
+    <Button
+        android:id="@+id/btn0"
+        android:text="0"
+        style="@style/style_btn_so"/>
+
+    <Button
+        android:id="@+id/btnBang"
+        android:background="#32FFFFFF"
+        android:text="="
+        style="@style/style_btn_so" />
+
+    <Button
+        android:id="@+id/btnCong"
+        android:text="+"
+        android:background="#32FFFFFF"
+        style="@style/style_btn_so"/>
+</GridLayout>

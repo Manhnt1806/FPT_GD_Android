@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Manhntph29583_ass_mob202</string>
+    <string name="nav_PLTC">Phân loại thu chi</string>
+    <string name="nav_QLTC">Quản lý thu chi</string>
+    <string name="nav_thongKe">Thống kê</string>
+    <string name="nav_info">Giới thiệu</string>
+    <string name="nav_exit">Thoát</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="tv_hoatdong2">_ Tham gia hội đồng hương, kết giao bạn bè, giúp đỡ những em sinh viên mới</string>
+    <string name="tv_hoatdong1">_ Tham gia hoạt động quyên góp, ủng hộ cho trẻ em nghèo các tỉnh miền núi phía Bắc. Thực hiện các hành trình thiện nguyện mang sách vở và quần áo ấm lên vùng cao, tham gia các chương trình thu dọn môi trường, sơn sửa lại trường học, công tác tình nguyện giúp đỡ xây nhà cho người nghèo...</string>
+    <string name="tv_muctieu1">_ Là một sinh viên, tôi mong muốn được thực tập đúng chuyên ngành của mình để được vận dụng kiến thức, kỹ năng mà tôi được học ở trường.</string>
+    <string name="tv_muctieu2">_ Nỗ lực tối đa để hoàn thành tốt các nhiệm vụ được giao, góp phần xây dựng sự nghiệp cá nhân, đóng góp cho sự phát triển của công ty.</string>
+    <string-array name="itemKhoanThu">
+        <item>Tiền lương</item>
+        <item>Làm thêm</item>
+        <item>Gia đình phụ cấp</item>
+    </string-array>
+</resources>

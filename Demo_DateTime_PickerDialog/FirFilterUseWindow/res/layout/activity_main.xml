@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.firfilterusewindow.MainActivity" >
+    
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Menu"
+        android:textSize="50dp"
+        android:gravity="center"/>
+
+    <Button 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bộ Lọc Thông Thấp"
+        android:id="@+id/btThongThap"
+        android:layout_marginTop="100dp"/>
+    <Button 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bộ Lọc Thông Cao"
+        android:id="@+id/btThongCao"/>
+    <Button 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bộ Lọc Thông Dải"
+        android:id="@+id/btThongDai"
+        />
+    <Button 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bộ Lọc Chắn Dải"
+        android:id="@+id/btChanDai"
+        />
+    <Button 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="About"
+        android:id="@+id/btAbout"
+        />
+    
+
+</LinearLayout>

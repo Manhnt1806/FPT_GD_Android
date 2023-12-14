@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="350dp"
+    android:layout_height="350dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center">
+
+    <View
+        android:id="@+id/idview"
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:background="@drawable/ic_launcher_background"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.498" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Đăng ký"
+        app:layout_constraintTop_toTopOf="@+id/idview"
+        app:layout_constraintLeft_toLeftOf="@+id/idview"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:id="@+id/idDangKy"
+         />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nhanh chóng và dễ dàng."
+        app:layout_constraintTop_toBottomOf="@+id/idDangKy"
+        app:layout_constraintLeft_toLeftOf="@+id/idview"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        />
+    <ImageView
+        android:id="@+id/idClose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_baseline_close_24"
+        app:layout_constraintTop_toTopOf="@id/idview"
+        app:layout_constraintRight_toRightOf="@id/idview"
+        android:layout_margin="10dp"
+        />
+    <EditText
+        android:id="@+id/edHo"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:hint="Họ"
+        app:layout_constraintTop_toTopOf="@id/idview"
+        app:layout_constraintLeft_toLeftOf="@id/idview"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/ic_launcher_background_ed"/>
+    <EditText
+        android:id="@+id/edTen"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:hint="Tên"
+        app:layout_constraintTop_toTopOf="@id/idview"
+        app:layout_constraintLeft_toRightOf="@id/edHo"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/ic_launcher_background_ed"
+        />
+    <EditText
+        android:id="@+id/edMail"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:hint="Số di động hoặc Email"
+        app:layout_constraintTop_toBottomOf="@id/edHo"
+        app:layout_constraintLeft_toLeftOf="@id/idview"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/ic_launcher_background_ed"
+        />
+    <EditText
+        android:id="@+id/edPass"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:hint="Mật khẩu mới"
+        app:layout_constraintTop_toBottomOf="@id/edMail"
+        app:layout_constraintLeft_toLeftOf="@id/idview"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/ic_launcher_background_ed"/>
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:text="Đăng ký"
+        app:layout_constraintTop_toBottomOf="@id/edPass"
+        app:layout_constraintLeft_toLeftOf="@id/idview"
+        app:layout_constraintRight_toRightOf="@id/idview"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#4CAF50"
+        android:textColor="@color/white"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

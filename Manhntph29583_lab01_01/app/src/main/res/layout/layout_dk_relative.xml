@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="350dp"
+    android:layout_height="350dp"
+    android:layout_gravity="center"
+    android:background="@drawable/ic_launcher_background">
+
+    <TextView
+        android:layout_width="306dp"
+        android:layout_height="wrap_content"
+        android:text="Đăng ký"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:id="@+id/idDangKy"
+        />
+    <TextView
+        android:id="@+id/idNote"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nhanh chóng và dễ dàng."
+        android:textStyle="bold"
+        android:layout_below="@+id/idDangKy"
+        />
+    <ImageView
+        android:id="@+id/idClose"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/ic_baseline_close_24"
+        android:layout_toRightOf="@id/idDangKy"
+        />
+    <EditText
+        android:id="@+id/edHo"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/ic_launcher_background_ed"
+        android:hint="Họ"
+        android:layout_below="@id/idNote"/>
+    <EditText
+        android:id="@+id/edTen"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:hint="Tên"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/idNote"
+        android:background="@drawable/ic_launcher_background_ed"
+        android:layout_toRightOf="@id/edHo"/>
+    <EditText
+        android:id="@+id/edMail"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:hint="Số di động hoặc Email"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/ic_launcher_background_ed"
+        android:layout_below="@id/edHo"
+        />
+    <EditText
+        android:id="@+id/edPass"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:hint="Mật khẩu mới"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/ic_launcher_background_ed"
+        android:layout_below="@id/edMail"/>
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:text="Đăng ký"
+        android:textColor="@color/white"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#4CAF50"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/edPass"
+        />
+</RelativeLayout>

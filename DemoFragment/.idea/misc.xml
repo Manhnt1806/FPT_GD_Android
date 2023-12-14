@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/DemoFragment/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/DemoFragment/app/src/main/res/layout/layout_frag01.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/Mob202_GDAndroids/DemoFragment/app/src/main/res/layout/layout_frag02.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/DemoFragment/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/FPTPolytechnic/PASS/Mob202_GDAndroids/DemoFragment/app/src/main/res/layout/layout_frag01.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

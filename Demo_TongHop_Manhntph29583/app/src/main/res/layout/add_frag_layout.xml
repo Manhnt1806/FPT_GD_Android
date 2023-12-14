@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:paddingBottom="24dp"
+    android:paddingTop="24dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Thêm ghi chú mới"
+        android:textColor="#2196F3"
+        android:textSize="30dp"
+        android:layout_gravity="center"/>
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/input_Tittle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tittle"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="48dp"
+        android:layout_marginRight="48dp"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/input_Content"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:hint="Content"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="48dp"
+        android:layout_marginRight="48dp"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="40dp">
+        <Button
+            android:id="@+id/btn_exit_add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Exit" />
+        <Button
+            android:id="@+id/btn_add"
+            android:layout_marginLeft="48dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Save" />
+    </LinearLayout>
+</LinearLayout>
